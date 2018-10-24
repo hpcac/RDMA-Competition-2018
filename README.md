@@ -1,3 +1,3 @@
 # RDMA-Competition
 
-# TBD
+# Tsinghua Team 2
